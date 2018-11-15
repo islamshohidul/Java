@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void loopMe()&apos; from &apos;MethodWithLoop.main()&apos; to &apos;MethodWithLoop&apos;&#x0D;&#x0A;- Original project: &apos;HelloWorld&apos;&#x0D;&#x0A;- Method name: &apos;loopMe&apos;&#x0D;&#x0A;- Destination type: &apos;MethodWithLoop&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;loopMe&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{MethodWithLoop.java" name="loopMe" replace="false" selection="101 89" stamp="1542303681527" version="1.0" visibility="2"/>
+</session>

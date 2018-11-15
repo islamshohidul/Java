@@ -23,7 +23,7 @@ public static void main(String[] args) throws IOException {
 		}
 
 	}
-	// 
+	
 	private static String getInput(String prompt) throws IOException{
 		BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
 		System.out.print(prompt);
