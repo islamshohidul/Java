@@ -10,7 +10,7 @@ public class ExceptionHandel {
 			//e.printStackTrace();
 			System.out.println("The array item was out of bound");
 		}
-		
+		System.out.println("System still working");
 		
 	}
 
