@@ -1,0 +1,10 @@
+
+public class ExceptionHandel {
+	
+	public static void main(String[] args){
+		String [] string = {"Welcome!"};
+		System.out.println(string[1]);
+		
+	}
+
+}

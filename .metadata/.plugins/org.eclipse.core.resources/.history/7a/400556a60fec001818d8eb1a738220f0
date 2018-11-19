@@ -1,0 +1,17 @@
+
+public class ExceptionHandel {
+	
+	public static void main(String[] args){
+		
+		try {
+			String [] string = {"Welcome!"};
+			System.out.println(string[1]);
+		} catch (ArrayIndexOutOfBoundsException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		System.out.println("System still working");
+		
+	}
+
+}
